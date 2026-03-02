@@ -25,5 +25,6 @@
   "learning_gain_math": 0,
   "score_reading": 45,
   "score_math": 40,
-  "academic_year": 2566
+  "academic_year": 2566,
+  "policies": ["scholarship", "internet", "remedial"]
 }
