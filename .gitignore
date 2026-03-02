@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+*.log
+# If model binaries are too large for GitHub, keep only metadata and use Git LFS/object storage
+# models/*.pkl
